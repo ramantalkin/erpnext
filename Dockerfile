@@ -1,4 +1,3 @@
-# update frappe 6.16.4 erpnext 6.15.1
 FROM ubuntu:trusty
 
 ENV FRAPPE_USER frappe
