@@ -1,4 +1,4 @@
-# ERPNext Docker Image
+## ERPNext Docker Image
 * Based on: ubuntu:14.04
 * Including services: 
   * Redis
